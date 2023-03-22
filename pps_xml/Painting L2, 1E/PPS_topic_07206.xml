@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="PPS_topic_21102" xml:lang="en">
+  <title>Performance Profile Sheet</title>
+  <body>
+    <section>
+      <p><ph>Craft: </ph><ph>Painting Level Two, 1st Ed.</ph></p>
+      
+      <p><ph>Module: </ph><ph>07206</ph></p>
+      
+      <p><ph>Module Title: </ph><ph>Drywall Finishing and Patching</ph></p>
+      
+    </section>
+    <section>
+      <p>TRAINEE NAME:	__________________________________________________</p>
+      <p>TRAINING PROGRAM SPONSOR:	____________________________________</p>
+      <p>INSTRUCTOR:	 ____________________________________________________</p>
+    </section>
+    <section id="section_u4l_tft_qtb">
+      <title>Rating Levels:</title>
+      <p>(P) Passed: performed task</p>
+      <p>(F) Failed: did not perform task</p>
+      <p>Be sure to list the date the testing for each task was completed.</p>
+    </section>
+    <section id="section_v4l_tft_qtb">
+      <title>Recognition:</title>
+      <p>When testing for the NCCER Training Program, record performance testing results and submit
+        completion dates through NCCER's online Testing System.</p>
+    </section>
+    <section>
+      <table frame="all" rowsep="1" colsep="1" id="PPS_table_21102">
+        <tgroup cols="6" align="left">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="2.5*"/>
+          <colspec colname="c3" colnum="3" colwidth=".75*"/>
+          <colspec colname="c4" colnum="4" colwidth=".75*"/>
+          <colspec colname="c5" colnum="5" colwidth=".75*"/>
+          <colspec colname="c6" colnum="6" colwidth=".75*"/>
+          <thead>
+            <row>
+              <entry>OBJECTIVE</entry>
+              <entry>TASK</entry>
+              <entry>RATING</entry>
+              <entry>DATE</entry>
+              <entry>START TIME</entry>
+              <entry>END TIME</entry>
+            </row>
+          </thead>
+          <tbody><row>
+              <entry><p>1</p></entry>
+              <entry>
+                <p>State the differences in the six levels of finish established by industry
+                  standards and be able to distinguish a finish level by observation.</p>
+              </entry>
+              
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+            </row><row>
+              <entry><p>2, 3</p></entry>
+              <entry>
+                <p>Finish a joint to one of the six levels as identified by the instructor.</p></entry>
+              
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>
+                <p>Identify an application in which each of the following compounds would be
+                  used:</p>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <ul id="ul_vmd_qdp_wtb">
+                  <li>
+                    <p>Taping compound</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <ul id="ul_end_qdp_wtb">
+                  <li>
+                    <p>Topping compound</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <ul id="ul_nnd_qdp_wtb">
+                  <li>
+                    <p>Premix compound</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul>
+                  <li>
+                <p>Quickset compound</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>
+                <p>Properly prepare each type of compound in use.</p>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Select the appropriate hand tools and perform the following tasks:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_vpm_12p_wtb">
+                  <li>
+                    <p>Joint taping and finishing</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_lrm_12p_wtb">
+                  <li>
+                    <p>Fastener spotting</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_ysm_12p_wtb">
+                  <li>
+                    <p>Corner finishing</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_r5m_12p_wtb">
+                  <li>
+                    <p>Sanding</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>
+                <p>Select appropriate automatic tools and perform the following finishing tasks:</p>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_vbm_h2p_wtb">
+                  <li>
+                    <p>Joint taping</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_udm_h2p_wtb">
+                  <li>
+                    <p>Fastener spotting</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_ufm_h2p_wtb">
+                  <li>
+                    <p>Corner finishing</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_uhm_h2p_wtb">
+                  <li>
+                    <p>Sanding</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>
+                <p>Recognize selected finish failures and state the appropriate action for each:</p>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_ojm_j2p_wtb">
+                  <li>
+                    <p>Joint problems</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_tlm_j2p_wtb">
+                  <li>
+                    <p>Compound problems</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_wnm_j2p_wtb">
+                  <li>
+                    <p>Fastener problems</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_zpm_j2p_wtb">
+                  <li>
+                    <p>Wallboard problems</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>Patch and finish damaged drywall.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row></tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <p> </p>
+      <p><b>Please make sure that both the Candidate/Trainee and Performance Evaluator sign and date
+        this form on the signature lines to follow.</b></p>
+    </section>
+  </body>
+  <topic id="Signatures">
+    <title>Signatures:</title>
+    <body>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally performed all tasks listed on this Performance Profile in the presence of the
+          above-named Performance Evaluator. I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Candidate/Trainee:	____________________________________	Date:	_______________________</p>
+      </section>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally observed the above-named trainee successfully complete all the tasks listed on
+          this Performance Profile in accordance with applicable policies and procedures set forth
+          in the current edition of the NCCER Accreditation Guidelines and Program Compliance
+          (“NCCER Guidelines”). I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Performance
+          Evaluator:	_________________________________	Date:	_______________________</p>
+      </section>
+      <section>
+        <p>Copyright © 1997 NCCER. Permission is granted to reproduce this page provided that copies
+          are for local use only and that each copy contains this notice.</p>
+      </section>
+    </body>
+  </topic>
+</topic>

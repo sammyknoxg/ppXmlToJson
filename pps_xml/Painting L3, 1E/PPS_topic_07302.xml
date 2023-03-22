@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="PPS_topic_21102" xml:lang="en">
+  <title>Performance Profile Sheet</title>
+  <body>
+    <section>
+      <p><ph>Craft: </ph><ph>Painting Level Three, 1st Ed.</ph></p>
+      
+      <p><ph>Module: </ph><ph>07302</ph></p>
+      
+      <p><ph>Module Title: </ph><ph>Job Supervision, Planning,
+        and Control</ph></p>
+      
+    </section>
+    <section>
+      <p>TRAINEE NAME:	__________________________________________________</p>
+      <p>TRAINING PROGRAM SPONSOR:	____________________________________</p>
+      <p>INSTRUCTOR:	 ____________________________________________________</p>
+    </section>
+    <section id="section_u4l_tft_qtb">
+      <title>Rating Levels:</title>
+      <p>(P) Passed: performed task</p>
+      <p>(F) Failed: did not perform task</p>
+      <p>Be sure to list the date the testing for each task was completed.</p>
+    </section>
+    <section id="section_v4l_tft_qtb">
+      <title>Recognition:</title>
+      <p>When testing for the NCCER Training Program, record performance testing results and submit
+        completion dates through NCCER's online Testing System.</p>
+    </section>
+    <section>
+      <table frame="all" rowsep="1" colsep="1" id="PPS_table_21102">
+        <tgroup cols="6" align="left">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="2.5*"/>
+          <colspec colname="c3" colnum="3" colwidth=".75*"/>
+          <colspec colname="c4" colnum="4" colwidth=".75*"/>
+          <colspec colname="c5" colnum="5" colwidth=".75*"/>
+          <colspec colname="c6" colnum="6" colwidth=".75*"/>
+          <thead>
+            <row>
+              <entry>OBJECTIVE</entry>
+              <entry>TASK</entry>
+              <entry>RATING</entry>
+              <entry>DATE</entry>
+              <entry>START TIME</entry>
+              <entry>END TIME</entry>
+            </row>
+          </thead>
+          <tbody><row>
+              <entry><p>2, 3, 4</p></entry>
+              <entry>
+                <p>Demonstrate or be aware of the following factors associated with the role of a
+                  supervisor/leader:</p></entry>
+              
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+            </row><row>
+              <entry><p/></entry>
+              <entry>
+                <ul id="ul_ojd_llw_wtb">
+                  <li>
+                    <p>Desirable personal qualities and traits</p>
+                  </li>
+                </ul>
+              </entry>
+              
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+            </row><row>
+              <entry><p/></entry>
+              <entry>
+                <ul id="ul_wjd_llw_wtb">
+                  <li>
+                    <p>Methods for achieving effective verbal and written communication</p>
+                  </li>
+                </ul>
+              </entry>
+              
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+              <entry><p/></entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_m3p_plw_wtb">
+                  <li>
+                    <p>Specific functions performed to get the job or task done</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_bd5_plw_wtb">
+                  <li>
+                    <p>Methods for promoting good working relationships with and among employers,
+                      customers, crew members, and craftspersons in other trades</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_k25_plw_wtb">
+                  <li>
+                    <p>Methods for resolving conflicts with customers and/or among craftspersons</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>
+                <p>Determine the dimensions for selected rooms and surfaces by scaling
+                  architectural/construction drawings.</p>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>Estimate the cost for a selected painting job.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_ab2_wlw_wtb">
+                  <li>
+                    <p>Interpret contractual documents to determine the job requirements.</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_id2_wlw_wtb">
+                  <li>
+                    <p>Complete a takeoff using construction drawings/schedules and record the data
+                      on standardized estimating forms.</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <ul id="ul_xf2_wlw_wtb">
+                  <li>
+                    <p>Use labor production rates, material usage rates, labor costs, and material
+                      costs to calculate the total labor hours required and the total costs for
+                      labor and materials for a selected painting job and record the data on
+                      standardized estimating forms.</p>
+                  </li>
+                </ul>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>
+                <p>Be familiar with PDCA standards that help establish industry guidelines for
+                  acceptance, inspection, and quality control.</p>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row></tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <p> </p>
+      <p><b>Please make sure that both the Candidate/Trainee and Performance Evaluator sign and date
+        this form on the signature lines to follow.</b></p>
+    </section>
+  </body>
+  <topic id="Signatures">
+    <title>Signatures:</title>
+    <body>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally performed all tasks listed on this Performance Profile in the presence of the
+          above-named Performance Evaluator. I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Candidate/Trainee:	____________________________________	Date:	_______________________</p>
+      </section>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally observed the above-named trainee successfully complete all the tasks listed on
+          this Performance Profile in accordance with applicable policies and procedures set forth
+          in the current edition of the NCCER Accreditation Guidelines and Program Compliance
+          (“NCCER Guidelines”). I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Performance
+          Evaluator:	_________________________________	Date:	_______________________</p>
+      </section>
+      <section>
+        <p>Copyright © 1998 NCCER. Permission is granted to reproduce this page provided that copies
+          are for local use only and that each copy contains this notice.</p>
+      </section>
+    </body>
+  </topic>
+</topic>

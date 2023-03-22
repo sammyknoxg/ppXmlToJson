@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="PPS_topic_21205" xml:lang="en">
+  <title>Performance Profile Sheet</title>
+  <body>
+    <section>
+      <p><ph>Craft: </ph><ph>Mobile Crane Operations Level Two, 3rd Ed.</ph></p>
+      
+      <p><ph>Module: </ph><ph>21205</ph></p>
+      
+      <p><ph>Module Title: </ph><ph>Computer Aids/Operator Aids</ph></p>
+      
+    </section>
+    <section>
+      <p>TRAINEE NAME:	__________________________________________________</p>
+      <p>TRAINING PROGRAM SPONSOR:	____________________________________</p>
+      <p>INSTRUCTOR:	 ____________________________________________________</p>
+    </section>
+    <section>
+      <title>Rating Levels:</title>
+      <p>(P) Passed: performed task</p>
+      <p>(F) Failed: did not perform task</p>
+      <p>Be sure to list the date the testing for each task was completed.</p>
+    </section>
+    <section>
+      <title>Recognition:</title>
+      <p>When testing for the NCCER Training Program, record performance testing results and submit
+        completion dates through NCCER's online Testing System.</p>
+    </section>
+    <section>
+      <table frame="all" rowsep="1" colsep="1" id="PPS_table_21205">
+        <tgroup cols="6" align="left">
+          <colspec colname="c1" colnum="1" colwidth="1.49*"/>
+          <colspec colname="c2" colnum="2" colwidth="4.87*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.02*"/>
+          <colspec colname="c4" colnum="4" colwidth="1.51*"/>
+          <colspec colname="c5" colnum="5" colwidth="1.07*"/>
+          <colspec colname="c6" colnum="6" colwidth="1*"/>
+          <thead>
+            <row>
+              <entry>OBJECTIVE</entry>
+              <entry>TASK</entry>
+              <entry>RATING</entry>
+              <entry>DATE</entry>
+              <entry>START TIME</entry>
+              <entry>END TIME</entry>
+            </row>
+          </thead>
+          <tbody><row>
+              <entry>
+                <p>1</p>
+              </entry>
+              <entry><p>Identify selected sensors and operator aids.</p></entry>
+              
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row><row>
+              <entry>
+                <p>1</p>
+              </entry>
+              <entry><p>Program a load moment indicator for various crane configurations.</p></entry>
+              
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row><row>
+              <entry>
+                <p>1</p>
+              </entry>
+              <entry><p>Test an anti-two-block warning/prevention device.</p></entry>
+              
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row><row>
+              <entry>
+                <p>1</p>
+              </entry>
+              <entry><p>Clear an alarm condition on a load moment indicator.</p></entry>
+              
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row></tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <p> </p>
+      <p><b>Please make sure that both the Candidate/Trainee and Performance Evaluator sign and date
+          this form on the signature lines to follow.</b></p>
+    </section>
+  </body>
+  <topic id="Signatures">
+    <title>Signatures:</title>
+    <body>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally performed all tasks listed on this Performance Profile in the presence of the
+          above-named Performance Evaluator. I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Candidate/Trainee:	____________________________________	Date:	_______________________</p>
+      </section>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally observed the above-named trainee successfully complete all the tasks listed on
+          this Performance Profile in accordance with applicable policies and procedures set forth
+          in the current edition of the NCCER Accreditation Guidelines and Program Compliance
+          (“NCCER Guidelines”). I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Performance
+          Evaluator:	_________________________________	Date:	_______________________</p>
+      </section>
+      <section>
+        <p>Copyright © 2018 NCCER. Permission is granted to reproduce this page provided that copies
+          are for local use only and that each copy contains this notice.</p>
+      </section>
+    </body>
+  </topic>
+</topic>

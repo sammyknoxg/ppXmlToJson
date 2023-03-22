@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="PPS_topic_69205-10"
+  xml:lang="en">
+  <title>Performance Profile Sheet</title>
+  <body>
+    <section>
+      <p><ph>Craft: </ph><ph>Industrial Coating and Lining Application Specialist Level Two, 1st
+          Ed.</ph></p>
+
+      <p><ph>Module: </ph><ph>69205-10</ph></p>
+
+      <p><ph>Module Title: </ph><ph>Surface Preparation Two</ph></p>
+
+    </section>
+    <section>
+      <p>TRAINEE NAME: __________________________________________________</p>
+      <p>TRAINING PROGRAM SPONSOR: ____________________________________</p>
+      <p>INSTRUCTOR: ____________________________________________________</p>
+    </section>
+    <section>
+      <title>Rating Levels:</title>
+      <p>(P) Passed: performed task</p>
+      <p>(F) Failed: did not perform task</p>
+      <p>Be sure to list the date the testing for each task was completed.</p>
+    </section>
+    <section>
+      <title>Recognition:</title>
+      <p>When testing for the NCCER Training Program, record performance testing results and submit
+        completion dates through NCCER's online Testing System.</p>
+    </section>
+    <section>
+      <table frame="all" rowsep="1" colsep="1" id="PPS_table_69205-10">
+        <tgroup cols="6" align="left">
+          <colspec colname="c1" colnum="1" colwidth="1.49*"/>
+          <colspec colname="c2" colnum="2" colwidth="4.87*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.02*"/>
+          <colspec colname="c4" colnum="4" colwidth="1.51*"/>
+          <colspec colname="c5" colnum="5" colwidth="1.07*"/>
+          <colspec colname="c6" colnum="6" colwidth="1*"/>
+          <thead>
+            <row>
+              <entry>OBJECTIVE</entry>
+              <entry>TASK</entry>
+              <entry>RATING</entry>
+              <entry>DATE</entry>
+              <entry>START TIME</entry>
+              <entry>END TIME</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>1</p>
+              </entry>
+              <entry><p>Identify and document surface conditions of steel substrates as depicted in
+                  the SSPC/NACE/ISO visual guides. </p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>3</p>
+              </entry>
+              <entry><p>Demonstrate the use of a dull putty knife to confirm compliance with <i>SSPC-SP
+                  2</i>, <i>SSPC-SP 3</i>, <i>NACE No. 4/SSPC-SP 7</i>, and <i>NACE No. 8/SSPC-SP 14</i>.</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>4</p>
+              </entry>
+              <entry><p>Demonstrate field procedures for verifying cleanliness of abrasives (<i>SSPC-AB2</i>) and related
+                  documentation procedures.</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>6</p>
+              </entry>
+              <entry><p>Demonstrate the procedures for measuring and documenting:</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Nozzle aperture</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Nozzle air pressure</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Compressed air cleanliness</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>7</p>
+              </entry>
+              <entry><p>Demonstrate the procedures for determining anchor profile and associated
+                  documentation using:</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Visual comparator</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Dial surface profile gauge</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Replica tape</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>7</p>
+              </entry>
+              <entry><p>Demonstrate the procedures for determining surface cleanliness and
+                  associated documentation using one or more of the following:</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Transparent tape test according to <i>ISO 8502-3</i></p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Ultraviolet light for detection of hydrocarbon contamination</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Commercially available equipment to test for soluble salts</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>8</p>
+              </entry>
+              <entry><p>Use the written standard and the accompanying visual guides (<i>NACE VIS
+                  9/SSPC-VIS 5</i> and <i>NACE VIS 7/SSPC-VIS 4</i>) to classify various examples of surface
+                  profiles.</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>9</p>
+              </entry>
+              <entry><p>Demonstrate the use and documentation of inspection procedures for concrete
+                  coating work using one or more of the following moisture tests:</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Moisture meters</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>RH probes</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Anhydrous CaCl <i>ASTM F1869</i></p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Plastic sheet method <i>ASTM D4263</i></p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>9</p>
+              </entry>
+              <entry><p>Demonstrate the use and documentation of inspection procedures for concrete
+                  coating work using one of the following surface profiles:</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>ICRI surface roughness comparators</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Concrete profiler putty</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>10</p>
+              </entry>
+              <entry><p>Demonstrate the proper use and documentation of environmental monitoring
+                  procedures using:</p></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Psychrometers</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Thermometers</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p/>
+              </entry>
+              <entry><ul>
+                  <li>
+                    <p>Psychrometric tables</p>
+                  </li>
+                </ul></entry>
+
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+              <entry>
+                <p/>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <p> </p>
+      <p><b>Please make sure that both the Candidate/Trainee and Performance Evaluator sign and date
+          this form on the signature lines to follow.</b></p>
+    </section>
+  </body>
+  <topic id="Signatures">
+    <title>Signatures:</title>
+    <body>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally performed all tasks listed on this Performance Profile in the presence of the
+          above-named Performance Evaluator. I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Candidate/Trainee: ____________________________________ Date: _______________________</p>
+      </section>
+      <section>
+        <p>I understand and acknowledge that, by my signature below, I am confirming that I
+          personally observed the above-named trainee successfully complete all the tasks listed on
+          this Performance Profile in accordance with applicable policies and procedures set forth
+          in the current edition of the NCCER Accreditation Guidelines and Program Compliance
+          (“NCCER Guidelines”). I understand that any and/or all of my NCCER
+          credentials/certifications may be subject to revocation if it is subsequently determined
+          that this Performance Profile was not delivered in accordance with NCCER Guidelines.</p>
+        <p>Performance Evaluator: _________________________________ Date:
+          _______________________</p>
+      </section>
+      <section>
+        <p>Copyright © 2010 NCCER. Permission is granted to reproduce this page provided that copies
+          are for local use only and that each copy contains this notice.</p>
+      </section>
+    </body>
+  </topic>
+</topic>
